@@ -37,7 +37,7 @@ You can open the `index.html` file in your browser to try it out locally.
 
 ## 📄 License
 
-&copy; [Swadeshwar k](https://github.com/yourusername) – All rights reserved.
+&copy; [Swadeshwar k](https://github.com/Swadu11) – All rights reserved.
 
 ---
 
