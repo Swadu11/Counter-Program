@@ -6,7 +6,7 @@ A simple, interactive counter web application built with HTML, CSS, and JavaScri
 ## 🖥️ Live Demo
 
 You can open the `index.html` file in your browser to try it out locally.
-
+[live](https://swadu11.github.io/Counter-Program/)
 ## 📂 Project Structure
  ├── index.html # Main HTML structure 
  ├── style.css # Styling and layout 
