@@ -21,7 +21,7 @@ You can open the `index.html` file in your browser to try it out locally.
 
 ## 📸 Preview
 
-![screenshot](screenshot.png) *(Optional: Add a screenshot to your repo)*
+![screenshot](counter.png) 
 
 ## 🛠️ Technologies Used
 
