@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Counter Program</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <h1 id="h1">Counter Program</h1><br>
+   <label id="countLabel">0</label><br>
+   <div id="btnContainer">
+    <button id="decreaseBtn" class="button">Decrease</button>
+    <button id="resetBtn" class="button">Reset</button>
+    <button id="increaseBtn" class="button">Increase</button>
+   </div>
+   
+   <footer id="footer">
+    &copy;<span id="year"></span> Swadeshwar k All rights reserved.
+  </footer>
+
+  <script>
+    document.getElementById('year').textContent = new Date().getFullYear();
+  </script>
+
+
+    
+   <script src="index.js"></script>
+</body>
+</html>
